@@ -14,7 +14,7 @@ I had made a project to handle sending tickets in mails to attends.
 
 ## Project specifications:- 
 
-### 1- link project with sql database
+# 1- link project with sql database
 2- using mail package to send emails and learn how to use SMTP of goole mails 
 3- using QR code generator to send specific qr for every attendance based on his/here personal information.
 4- using view of mail and write simple html to handling the view of mail 
